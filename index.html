@@ -278,7 +278,7 @@ const pad7 = n => String(Math.min(n, 9999999)).padStart(7, '0');
 const key3 = (x, y, z) => x + ',' + y + ',' + z;
 
 function gravityInterval(lv) {
-  return Math.max(95, 1400 * Math.pow(0.947, lv - 1));
+  return Math.max(95, 1800 * Math.pow(0.94, lv - 1));
 }
 function availableShapes(lv) {
   return SHAPES.filter(s => s.tier >= 1 && lv >= TIER_UNLOCK_LEVEL[s.tier]);
