@@ -8,6 +8,11 @@ synthwave sun, CRT scanlines, and square-wave bleeps. Pieces fall into a
 + painter's algorithm on a 2D canvas), so nothing to install and no network
 needed.
 
+## Play online
+
+**https://sundar1791.github.io/3d-tetris/** — deployed automatically from
+`main` by GitHub Actions.
+
 ## Run it locally
 
 Just open the file:
