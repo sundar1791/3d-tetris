@@ -48,7 +48,7 @@ python3 -m http.server 8000
 ## 50 levels of difficulty
 
 Pick any start level (1–50) on the title screen. Gravity accelerates every
-level (≈1.8 s per row at level 1 down to ≈95 ms at level 50). You level up by
+level (2 s per row at level 1 down to ≈95 ms at level 50). You level up by
 clearing layers or surviving pieces (2 layers or 12 placed pieces per level).
 
 ## Shapes — new geometry unlocked as you climb
